@@ -1,0 +1,3 @@
+ContextMenu_FR = {
+    ContextMenu_ShaveChest = "Rasage du torse",
+}
