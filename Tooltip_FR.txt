@@ -1,0 +1,4 @@
+Tooltip_FR = {
+    Tooltip_NoChestHair = "Pas de poils sur la poitrine",
+    Tooltip_requireRazor = "Nécessite un rasoir",
+}
